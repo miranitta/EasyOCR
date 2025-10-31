@@ -32,8 +32,15 @@ C
 8
 9
 mol/L
+#
 g/L
+<
+>
 mg/dL
 %
 μg
 °C
+*
+Hg
+mm
+
