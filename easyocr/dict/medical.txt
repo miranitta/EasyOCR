@@ -1,0 +1,16 @@
+Hemoglobin
+Platelet
+WBC
+RBC
+Glucose
+Creatinine
+Urea
+Cholesterol
+Triglycerides
+mg/dL
+mmol/L
+mmHg
+Hemogramme
+HEMOGRAMME
+HEMATIES
+Hematies
