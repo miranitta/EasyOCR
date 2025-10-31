@@ -30,7 +30,7 @@ detection_models = {
 latin_lang_list = ['af','az','bs','cs','cy','da','de','en','es','et','fr','ga',\
                    'hr','hu','id','is','it','ku','la','lt','lv','mi','ms','mt',\
                    'nl','no','oc','pi','pl','pt','ro','rs_latin','sk','sl','sq',\
-                   'sv','sw','tl','tr','uz','vi']
+                   'sv','sw','tl','tr','uz','vi', 'medical']
 arabic_lang_list = ['ar','fa','ug','ur']
 bengali_lang_list = ['bn','as','mni']
 cyrillic_lang_list = ['ru','rs_cyrillic','be','bg','uk','mn','abq','ady','kbd',\
@@ -58,7 +58,7 @@ recognition_models = {
             'url': 'https://github.com/JaidedAI/EasyOCR/releases/download/pre-v1.1.6/latin.zip',
             'md5sum': 'fb91b9abf65aeeac95a172291b4a6176',
             'characters': "0123456789!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~ ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÁÂÃÄÅÆÇÈÉÊËÍÎÑÒÓÔÕÖØÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿąęĮįıŁłŒœŠšųŽž",
-            'symbols': "0123456789!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~ "
+            'symbols': "0123456789!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~µ°/% "
         },
         'zh_tra_g1':{
             'filename': 'chinese.pth',
